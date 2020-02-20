@@ -1,0 +1,7 @@
+###### Basic html code ############
+<html>
+<body bgcolor="#CC9900">
+<h1>Hello world!</h1>
+<p><a href="https://www.ganeshlinux.com">Visit ganeshlinux.com!</a></p>
+</body>
+</html>
